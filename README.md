@@ -1,3 +1,3 @@
 Add new file 'data' and 'logs'.
 
-Run 'main'.py.
+Run 'main.py'.
